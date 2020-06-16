@@ -1,0 +1,4 @@
+The Encrypted text is
+hU4om!x=n.qf)yoewXpUePc+
+The decrypted text is
+Text encryption decryption in python
